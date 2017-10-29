@@ -3,36 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://erewhon.github.io/page/presentations/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erewhon.github.io/post/2017-10-28-shuffling/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://erewhon.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/gratuitous-complexity/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/hipster-driven-development/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/presentations/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/programming-languages-lisp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/programming-principles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erewhon.github.io/page/small-things/</loc>
   </url>
   
   <url>
@@ -54,6 +35,7 @@
   
   <url>
     <loc>https://erewhon.github.io/page/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
