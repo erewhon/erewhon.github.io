@@ -10,3 +10,11 @@ erewhon
 - [Biz](http://flatland.biz)
 - [Blog](http://erewhon.flatland.org)
 - [Facebook](http://facebook.com/erewhon)
+
+# Themes to try out:
+
+https://themes.gohugo.io/prologue/
+https://themes.gohugo.io/hugo-icon/
+https://themes.gohugo.io/dimension/
+https://themes.gohugo.io/aerial/
+https://themes.gohugo.io/hugo-initio/

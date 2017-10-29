@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on erewhon</title>
+    <link>https://erewhon.github.io/tags/blog/</link>
+    <description>Recent content in Blog on erewhon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erewhon.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remaking an online journal</title>
+      <link>https://erewhon.github.io/post/2017-10-28-shuffling/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erewhon.github.io/post/2017-10-28-shuffling/</guid>
+      <description>I have had various online presences for the better part of 20 years. I keep a daily journal, but very few things end up online. I am going to try to write more. Both prose and code. And with time I will probably backfill my other attempts at writing.
+Today, I have an old blog at erewhon.flatland.org. I have my business / consulting site at flatland.biz. And who knows what else.</description>
+    </item>
+    
+  </channel>
+</rss>
